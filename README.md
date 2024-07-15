@@ -6,7 +6,6 @@ Este é um projeto de criação de páginas dinâmicas e interativas utilizando 
 
 - **Interatividade Dinâmica**: Utilização de JavaScript para manipulação do DOM e criação de uma interface responsiva.
 - **Interface Gráfica**: Design responsivo com CSS e HTML.
-- **Integração com MIDI**: Possibilidade de tocar, pausar e controlar arquivos MIDI.
 
 ## Estrutura do Projeto
 
